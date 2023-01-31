@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/586370674.svg)](https://zenodo.org/badge/latestdoi/586370674)
+
 ## Single-day and multi-day exposure to orogastric gavages do not affect intestinal barrier function in mice
 
 #### Nikita Hanning, Rosanne Verboven, Joris G. De Man, Hannah Ceuleers, Heiko U. De Schepper, Annemieke Smet and Benedicte Y. De Winter
